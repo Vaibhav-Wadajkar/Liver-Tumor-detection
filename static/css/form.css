@@ -1,0 +1,32 @@
+body{
+  background-image: url("https://img.freepik.com/free-vector/digital-technology-background-with-abstract-wave-border_53876-117508.jpg?w=1380") !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+.main-page {
+  margin-top: 60px !important;
+  /* text-align: center !important; */
+}
+
+
+.form{
+  opacity: 1.5;
+}
+.h4{
+  background-color: #05445E;
+}
+
+.heading{
+  font-size: 3rem;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+  color: #000000;
+  text-shadow: 2px 2px 4px #646161;
+}
+
+/* footer */
+.ftr{
+  color: #cccccc;
+}
+
