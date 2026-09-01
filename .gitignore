@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+patients.db
+.idea/
+*.log
+.env
+*.h5
+*.pkl
+static/*.jpg
+static/*.png
